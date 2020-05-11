@@ -8,26 +8,25 @@
     <link rel="stylesheet" type="text/css" href="/static/content/site.css" />
     <script src="/static/scripts/modernizr-2.6.2.js"></script>
     {% block myscripts %}{% endblock %}
-</head>
 
 <body>
-    <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar navbar-inverse navbar-fixed-top navbar-color"> 
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
+                    <span clas<s="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
                 <a href="/" class="navbar-brand">The Instacart Shopper</a>
             </div>
             <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
+                <ul class="nav navbar-nav navbar-color">
                     <li><a href="{{ url_for('home') }}">Home</a></li>
-                    <li><a href="{{ url_for('about') }}">Machine Learning</a></li>
-                    <li><a href="{{ url_for('contact') }}">Visualizations</a></li>
-                    <li><a href="{{ url_for('plot') }}">Team</a></li>
+                    <li><a href="{{ url_for('ml') }}">Machine Learning</a></li>
+                    <li><a href="{{ url_for('viz') }}">Visualizations</a></li>
+                    <li><a href="{{ url_for('team') }}">Team</a></li>
                 </ul>
             </div>
         </div>

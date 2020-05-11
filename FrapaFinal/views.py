@@ -16,32 +16,32 @@ def home():
         year=datetime.now().year,
     )
 
-@app.route('/contact')
-def contact():
+@app.route('/visualization')
+def viz():
     """Renders the contact page."""
     return render_template(
-        'contact.html',
-        title='Contact',
+        'viz.html',
+        title='Visualization',
         year=datetime.now().year,
-        message='Your contact page.'
+        message='ML Visualizations'
     )
 
-@app.route('/plot')
-def plot():
+@app.route('/team')
+def team():
     """Renders the contact page."""
     return render_template(
-        'plot.html',
-        title='Financial Report',
+        'team.html',
+        title='Team-FRAPA',
         year=datetime.now().year,
-        message='Your Financial report page.'
+        message='Team Info Page'
     )
 
-@app.route('/about')
-def about():
+@app.route('/ml')
+def ml():
     """Renders the ml page."""
     return render_template(
-        'about.html',
-        title='About',
+        'ml.html',
+        title='Machine Learning',
         year=datetime.now().year,
         message='ML Analysis Page'
     )

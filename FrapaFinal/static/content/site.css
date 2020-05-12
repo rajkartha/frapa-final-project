@@ -41,7 +41,19 @@ input[type="checkbox"].input-validation-error {
     display: none;
 }
 
-.navbar-color {
+/* .navbar-color {
     background-color: rgb(209, 48, 19);
-    color: black;
-    }
+    n
+    } */
+
+/* Modify the background color */ 
+          
+.navbar-custom { 
+    background-color: rgb(226, 76, 17); 
+} 
+/* Modify brand and text color */ 
+  
+.navbar-custom .navbar-brand, 
+.navbar-custom .navbar-text { 
+    color: rgb(8, 8, 8); 
+} 

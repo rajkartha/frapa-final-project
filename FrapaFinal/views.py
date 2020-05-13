@@ -45,3 +45,13 @@ def ml():
         year=datetime.now().year,
         message='ML Analysis Page'
     )
+
+@app.route('/ihub')
+def ihub():
+    """Renders the ihub page."""
+    return render_template(
+        'ihub.html',
+        title='Information Hub',
+        year=datetime.now().year,
+        message='ML Analysis Page'
+    )

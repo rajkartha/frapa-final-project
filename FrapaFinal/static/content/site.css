@@ -46,6 +46,6 @@ input[type="checkbox"].input-validation-error {
     }
 
 img.resize {
-    max-width:50%;
-    max-height:50%;
+    width:200px;
+    height:40px;
     }

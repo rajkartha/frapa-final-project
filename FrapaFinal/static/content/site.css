@@ -49,3 +49,8 @@ img.resize {
     width:200px;
     height:40px;
     }
+
+.style
+p {
+    text-align: center;
+    }

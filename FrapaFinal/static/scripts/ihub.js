@@ -5,7 +5,7 @@ function init() {
   var products = d3.select("#Products");
 
   // Use the list of sample names to populate the select options
-  d3.json("Departments.json").then((data) => {
+  d3.json("FrapaFinal/templates/Departments.json").then((data) => {
 
     data.forEach((department) => {
       departments
@@ -15,7 +15,7 @@ function init() {
     });
   })
    // Use the list of sample names to populate the select options
-   d3.json("Aisles.json").then((data) => {
+   d3.json("FrapaFinal/templates/Aisles.json").then((data) => {
 
     data.forEach((aisle) => {
       aisles
@@ -25,7 +25,7 @@ function init() {
     });
   })
    // Use the list of sample names to populate the select options
-   d3.json("Products.json").then((data) => {
+   d3.json("FrapaFinal/templates/Products.json").then((data) => {
 
     data.forEach((product) => {
       products

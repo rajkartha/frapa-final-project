@@ -1,0 +1,73 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Information Hub</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  </head>
+  
+  <body>
+  
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 jumbotron text-center">
+          <h1>Are You Forgetting Something?</h1>
+          <p>Select Your Item From Below</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="well">
+            <h5>Departments:</h5>
+            <select id="Departments" onchange="optionChanged(this.value, 'Department_C')"></select>
+          </div>
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title">Department Name</h3>
+            </div>
+            <div id="Department_C" class="panel-body"></div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="well">
+            <h5>Aisles:</h5>
+            <select id="Aisles" onchange="optionChanged(this.value, 'Aisle_C')"></select>
+          </div>
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title">Aisle Type</h3>
+            </div>
+            <div id="Aisle_C" class="panel-body"></div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="well">
+            <h5>Products:</h5>
+            <select id="Products" onchange="optionChanged(this.value, 'Product_C')"></select>
+          </div>
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title">Product Name</h3>
+            </div>
+            <div id="Product_C" class="panel-body"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="ihub.js"></script>
+     
+  
+  </body>
+  
+  </html>
+  
+
+
+{% endblock %}

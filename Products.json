@@ -1,0 +1,166 @@
+[
+ {
+   "Antecedents": "Apple Honeycrisp Organic",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Bag Of Organic Bananas, Organic Baby Spinach",
+   "Consequents": "Organic Strawberries"
+ },
+ {
+   "Antecedents": "Bag Of Organic Bananas, Organic Hass Avocado",
+   "Consequents": "Organic Raspberries"
+ },
+ {
+   "Antecedents": "Bag Of Organic Bananas, Organic Hass Avocado",
+   "Consequents": "Organic Strawberries"
+ },
+ {
+   "Antecedents": "Bag Of Organic Bananas, Organic Raspberries",
+   "Consequents": "Organic Hass Avocado"
+ },
+ {
+   "Antecedents": "Bag Of Organic Bananas, Organic Raspberries",
+   "Consequents": "Organic Strawberries"
+ },
+ {
+   "Antecedents": "Bag Of Organic Bananas, Organic Strawberries",
+   "Consequents": "Organic Hass Avocado"
+ },
+ {
+   "Antecedents": "Bag Of Organic Bananas, Organic Strawberries",
+   "Consequents": "Organic Raspberries"
+ },
+ {
+   "Antecedents": "Blueberries",
+   "Consequents": "Banana"
+ },
+ {
+   "Antecedents": "Broccoli Crown",
+   "Consequents": "Banana"
+ },
+ {
+   "Antecedents": "Honeycrisp Apple",
+   "Consequents": "Banana"
+ },
+ {
+   "Antecedents": "Lime Sparkling Water",
+   "Consequents": "Sparkling Water Grapefruit"
+ },
+ {
+   "Antecedents": "Limes",
+   "Consequents": "Large Lemon"
+ },
+ {
+   "Antecedents": "Organic Baby Spinach, Organic Strawberries",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Blueberries",
+   "Consequents": "Organic Strawberries"
+ },
+ {
+   "Antecedents": "Organic Cilantro",
+   "Consequents": "Limes"
+ },
+ {
+   "Antecedents": "Organic Cucumber",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Cucumber",
+   "Consequents": "Organic Hass Avocado"
+ },
+ {
+   "Antecedents": "Organic Cucumber",
+   "Consequents": "Organic Strawberries"
+ },
+ {
+   "Antecedents": "Organic Danjou Pears",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Fuji Apple",
+   "Consequents": "Banana"
+ },
+ {
+   "Antecedents": "Organic Gala Apples",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Garnet Sweet Potato (Yam)",
+   "Consequents": "Organic Baby Spinach"
+ },
+ {
+   "Antecedents": "Organic Granny Smith Apple",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Hass Avocado",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Hass Avocado, Organic Strawberries",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Kiwi",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Large Extra Fancy Fuji Apple",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Large Extra Fancy Fuji Apple",
+   "Consequents": "Organic Strawberries"
+ },
+ {
+   "Antecedents": "Organic Lemon",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Lemon",
+   "Consequents": "Organic Hass Avocado"
+ },
+ {
+   "Antecedents": "Organic Navel Orange",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Raspberries",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Raspberries",
+   "Consequents": "Organic Strawberries"
+ },
+ {
+   "Antecedents": "Organic Raspberries, Organic Hass Avocado",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Raspberries, Organic Strawberries",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Red Bell Pepper",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Strawberries",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Tomato Cluster",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Unsweetened Almond Milk",
+   "Consequents": "Bag Of Organic Bananas"
+ },
+ {
+   "Antecedents": "Organic Whole String Cheese",
+   "Consequents": "Bag Of Organic Bananas"
+ }
+]

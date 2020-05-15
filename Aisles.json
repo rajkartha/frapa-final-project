@@ -1,0 +1,34 @@
+[
+ {
+   "Antecedents": "Fresh Vegetables",
+   "Consequents": "Fresh Fruits"
+ },
+ {
+   "Antecedents": "Fresh Fruits",
+   "Consequents": "Fresh Vegetables"
+ },
+ {
+   "Antecedents": "Fresh Vegetables",
+   "Consequents": "Packaged Vegetables Fruits"
+ },
+ {
+   "Antecedents": "Fresh Vegetables, Fresh Fruits",
+   "Consequents": "Packaged Vegetables Fruits"
+ },
+ {
+   "Antecedents": "Packaged Vegetables Fruits",
+   "Consequents": "Fresh Fruits"
+ },
+ {
+   "Antecedents": "Packaged Vegetables Fruits",
+   "Consequents": "Fresh Vegetables"
+ },
+ {
+   "Antecedents": "Packaged Vegetables Fruits, Fresh Fruits",
+   "Consequents": "Fresh Vegetables"
+ },
+ {
+   "Antecedents": "Packaged Vegetables Fruits, Fresh Vegetables",
+   "Consequents": "Fresh Fruits"
+ }
+]

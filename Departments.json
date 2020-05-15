@@ -1,0 +1,23 @@
+[
+ {
+   "Antecedents": "Beverages",
+   "Consequents": "Dairy Eggs"
+ },
+ {
+   "Antecedents": "Dairy Eggs",
+   "Consequents": "Produce"
+ },
+ {
+   "Antecedents": "Frozen",
+   "Consequents": "Dairy Eggs, Produce"
+ },
+ {
+   "Antecedents": "Produce",
+   "Consequents": "Dairy Eggs"
+ },
+ {
+   "Antecedents": "Snacks",
+   "Consequents": "Dairy Eggs, Produce"
+ }
+
+]

@@ -45,3 +45,7 @@ input[type="checkbox"].input-validation-error {
     background-color: rgb(10, 10, 10);
     }
 
+img.resize {
+    max-width:50%;
+    max-height:50%;
+    }

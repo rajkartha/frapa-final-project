@@ -69,7 +69,7 @@ The following heatmaps help us evaluate the results of our model. It tells us th
 
 ## Predictions
 ---
-Page to display combination of item sets. For example, if customers buy cilantro they are likely to buy limes as well. 
+Page to display combination of item sets. Example below display how customers who buy cilantro are likely to buy limes as well. 
 
 <table>
   <tr>

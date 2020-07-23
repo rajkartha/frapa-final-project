@@ -82,4 +82,8 @@ Page to display combination of item sets. For example, if customers buy cilantro
   </tr>
  </table>
 
+> ### Are you forgetting something?
+![Information Hub](Images/Information_Hub.png)
 
+> ### Select your Item
+![Select Your Item](Images/select_your_item.png)

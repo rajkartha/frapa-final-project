@@ -50,7 +50,7 @@ Once we fed our model with a relative frequency rate, and provided it with the b
 
 > ### Heatmaps of top 10 Product Rules
 
-We further filtered the rules by choosing those with higher confidence levels and ordering the rules by their higher (descending) lift value. 
+We further filtered the rules by choosing those with higher confidence levels, and ordering the rules by their higher (descending) lift values. 
 
 The following heatmaps help us evaluate the results of our model. It tells us the level of confidence and lift values present in each combination set or rule.
 
